@@ -22,3 +22,29 @@ A proposta deste estudo de caso é analisar e compreender o comportamento dos pr
 - Quais foram os períodos de maior volatilidade?  
 - Há uma tendência nos preços ao longo dos anos? 
 - Como os preços se comportam em diferentes regiões e estados do Brasil ao longo do tempo?
+
+---
+# Historical Series of Fuel and LPG Prices
+
+"*In compliance with the provisions of the Petroleum Law (Law No. 9478/1997, article 8), ANP monitors the prices practiced by automotive fuel retailers and liquefied petroleum gas bottled in 13-kilogram cylinders (GLP P13), through a weekly price survey carried out by a contracted company.*"
+
+[National Agency of Petroleum, Natural Gas, and Biofuels](https://www.gov.br/anp/pt-br)
+
+[Data Source](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis)
+
+[Metadata](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/metadados-serie-historica-precos-combustiveis-1.pdf)
+
+## Motivation
+To put analytical skills and coding capabilities into practice for the development of a data-driven study. To challenge oneself and consolidate learning through concrete experience.
+
+## Challenge
+To learn how to consume data from multiple aggregating platforms (dados.gov.br, ibge.gov.br), integrate them, and treat them to generate insights about the context and explore different visualizations to represent the information accurately and efficiently.
+
+## Proposal
+
+The proposal of this case study is to analyze and understand the behavior of fuel prices over the past 5 years (2nd semester 2019 - 2nd semester 2023) and to answer questions that help clarify the information present in the data, such as:
+
+- How have fuel and LPG prices varied over time?
+- What were the periods of greatest volatility?
+- Is there a trend in prices over the years?
+- How do prices behave in different regions and states of Brazil over time?

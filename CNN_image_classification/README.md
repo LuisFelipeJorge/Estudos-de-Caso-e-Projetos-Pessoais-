@@ -13,3 +13,22 @@ Aprender a tratar e trabalhar sobre dados de imagens, desenvolver estratégias p
 ## Proposta
 
 A proposta deste estudo de caso é analisar e compreender a implementação de uma rede neural convolucional e lidar com suas especificidades. Também é do interesse desse estudo de caso avaliar a técnica de inserção de ruídos aleatórios no processo de treinamento da rede profunda. 
+
+
+---
+
+# Neural Network Implementation for Image Classification
+
+## Motivation
+The primary objective of this project was to develop a Convolutional Neural Network (CNN) based on the [LeNet architecture](https://en.wikipedia.org/wiki/LeNet), one of the pioneering models in the field of computer vision, to evaluate its effectiveness in image classification. For this evaluation, two widely recognized datasets were used for educational purposes and as benchmarks for learning models: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [SVHN (Street View House Numbers)](https://www.tensorflow.org/datasets/catalog/svhn_cropped).
+
+To make the experiment closer to real-world situations, I simulated the presence of Gaussian noise in the images during the training process, reflecting the diversity of sources and capture conditions in a real environment, i.e., where there are devices with different cameras capturing images at various resolutions.
+
+In the end, I examined the impact of this strategy on the models' performance, seeking valuable insights for practical applications of convolutional neural networks in varied and challenging environments.
+
+## Challenge
+To learn how to process and work with image data, develop strategies to handle the high volumes of data inherent in image datasets, and optimize code execution to facilitate development. To learn how to practically and efficiently use the parallelism resources of TPUs available on the Google Colab platform through the implementation of neural networks using the Keras package in Python. To evaluate the impact of the training strategy with noise on the models' performance.
+
+## Proposal
+
+The proposal of this case study is to analyze and understand the implementation of a convolutional neural network and deal with its specificities. This case study also aims to evaluate the technique of adding random noise during the training process of the deep network.
